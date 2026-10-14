@@ -1,0 +1,54 @@
+[ { "id": 1,
+    "nombre": "Tomate", 
+    "precio": 135,
+    "stock": 50,
+    "categoria": "verduras",
+    "imagen": "assets/json/imgs/tomato.png" 
+
+},
+{
+
+    "id": 2,
+    "nombre": "Lechuga", 
+    "precio": 70,
+    "stock": 100,
+    "categoria": "verduras",
+    "imagen": "assets/json/imgs/lechuga.png" 
+},
+{
+
+    "id": 3,
+    "nombre": "Hinojo", 
+    "precio": 75,
+    "stock": 150,
+    "categoria": "verduras",
+    "imagen": "assets/json/imgs/hinojo.png" 
+},
+{
+
+    "id": 4,
+    "nombre": "Cebolla", 
+    "precio": 85,
+    "stock": 50,
+    "categoria": "verduras",
+    "imagen": "assets/json/imgs/cebolla.png"
+},
+{
+    "id": 5,
+    "nombre": "Frutilla", 
+    "precio": 85,
+    "stock": 50,
+    "categoria": "frutas",
+    "imagen": "assets/json/imgs/frutilla.png"
+
+},
+{
+    "id": 6,
+    "nombre": "Arándano", 
+    "precio": 85,
+    "stock": 50,
+    "categoria": "frutas",
+    "imagen": "assets/json/imgs/arandano.png"
+}
+]
+
